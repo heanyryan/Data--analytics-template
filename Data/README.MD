@@ -2,6 +2,9 @@
 
 ## Folders
 
+Source data
+https://www.kaggle.com/datasets/sameerk2004/fraud-detection-dataset
+
 ## raw
 
 original, unmodified data after downloading, scraping, etc.
